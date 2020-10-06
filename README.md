@@ -5,7 +5,7 @@
 <ul>
 Class 1 and 2 
 
-  - Python 
+  
   - Pandas
   - Colab
   - Tuples
